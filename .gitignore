@@ -1,0 +1,8 @@
+# Visual Studio build output
+bin/
+obj/
+.vs/
+*.user
+
+# macOS
+.DS_Store
